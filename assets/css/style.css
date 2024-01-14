@@ -177,6 +177,9 @@ header {
   border-radius: 50%;
   margin-right: 15px;
 }
+.our-career {
+  padding-bottom: 100px;
+}
 .our-client {
   padding-bottom: 150px;
 }
@@ -411,6 +414,9 @@ footer {
 .client-pill {
   background-color: #a199ff;
 }
+.career-pill {
+  background-color: #fe5c33;
+}
 
 .box {
   position: relative !important;
@@ -439,6 +445,15 @@ footer {
   top: 7px;
   color: #21bffc;
   background-color: #c4edfc;
+  padding: 8px 10px;
+  font-size: 12px;
+}
+.box .career {
+  position: absolute !important;
+  left: -142%;
+  top: 7px;
+  color: #fe5c33;
+  background-color: #fbd4ca;
   padding: 8px 10px;
   font-size: 12px;
 }
